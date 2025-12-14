@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto de **classificação de imagens de vegetais** utilizando Redes Neurais Convolucionais (CNN) com PyTorch. O trabalho implementa tanto uma CNN desenvolvida do zero quanto uma abordagem de transfer learning usando ResNet-18 pré-treinada, comparando desempenho entre os modelos.
+Projeto de **classificação de imagens de vegetais** utilizando Redes Neurais Convolucionais (CNN) com PyTorch. O Projeto implementa tanto uma CNN desenvolvida do zero quanto uma abordagem de transfer learning usando ResNet-18 pré-treinada, comparando desempenho entre os modelos.
 
 ## Estrutura do Projeto
 
