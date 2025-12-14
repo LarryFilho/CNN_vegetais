@@ -26,3 +26,7 @@ O projeto segue um pipeline completo de Deep Learning:
 4. Vá para onde baixou o projeto e faça upload do arquivo "testes.ipynb"
 5. Já dentro do notebook "testes" vá para a pasta de arquivos do Google Colab e adicione os dois arquivos .pth que estão dentro da pasta "modelos" de onde baixou o projeto.
 6. Adicione novas fotos ao Notebook e altere o nome delas em "imagem_para_testar" e rode o notebook novamente.
+
+## Observações 
+
+Para visualizar a comparação entre a CNN desenvolvida e a ResNet-18 é necessário abrir o Notebook chamado "Modelling.ipynb". Lá estão todas as métricas, comparações e Matriz de Confusão da CNN desenvolvida. 
